@@ -1,5 +1,6 @@
 # Miembros
 
+*NIck Fru
 * Capitan America
 * Black panther
 * Black Widow
